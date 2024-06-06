@@ -1,0 +1,4 @@
+python-dotenv
+streamlit
+google-generativeai
+genai
